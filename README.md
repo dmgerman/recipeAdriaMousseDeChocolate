@@ -7,7 +7,11 @@ This is from Ferran Adria's Family Meal (Spanish version). Yields 6
 - 160 g egg whites (approximately 4)
 - 130 g of choocolate (semisweet)
 - 1 No2 cartridge
+
 (yes, no sugar)
+
+Instructions
+------------
 
 - Cut chocolate into small pieces
 - Boil cream
